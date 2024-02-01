@@ -20,6 +20,7 @@ const Basics = () => {
     return(
         <div>
             <h1> {count} </h1>
+            
             <button onClick={incCount}> Increase C</button>
 
             <h1>{a}</h1> 
