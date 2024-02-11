@@ -5,7 +5,7 @@ const Fruits = () =>{
 
       const [fruit, setFruit] = useState("")
 
-      console.log(favouriteFruits);
+    //   console.log(favouriteFruits);
 
       function addFruits(e){
         e.preventDefault()
