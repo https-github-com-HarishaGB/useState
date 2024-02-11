@@ -12,10 +12,10 @@ const Async = () =>{
         // console.log(count)
       }
 
-      // function inc2(){
-      //   setCount(count => count + 1)
-      //   setCount(count => count + 1)
-      // }
+      function inc2(){
+        setCount(count => count + 1)
+        setCount(count => count + 1)
+      }
 
     return(
         <div>
